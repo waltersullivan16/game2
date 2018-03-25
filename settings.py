@@ -1,0 +1,8 @@
+WIDTH = 931
+HEIGHT = 360
+FPS = 30
+MAX_HEIGHT = 0
+
+##Colors##
+RED = (255, 0 ,0)
+GREY = (192, 192, 192)
